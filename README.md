@@ -10,7 +10,7 @@ This project is a crop yield prediction application developed for CSC 310. It us
 - pip
 
 ### Setup
-1. Clone the repository: `git clone https://github.com/yourusername/CSC310_Final.git`
+1. Clone the repository: `git clone https://github.com/thourihan/CSC310_Final.git`
 2. Navigate to the project directory: `cd CSC310_Final`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
