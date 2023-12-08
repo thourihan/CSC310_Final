@@ -1,7 +1,7 @@
 # CSC 310 Final Project: Crop Yield Prediction App
 
 ## Description
-This project is a crop yield prediction application developed for CSC 310. It uses machine learning models to predict crop yields based on various input parameters.
+This project is a crop yield prediction application developed for CSC 310. It uses machine learning models to predict crop yields based on various input parameters. We used this dataset: https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset
 
 ## Installation
 
